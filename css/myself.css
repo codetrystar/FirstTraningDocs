@@ -1,0 +1,259 @@
+/* 这是我自己定义的样式表 */
+
+
+/* 这里是显示文档那块 */
+.trainingdoc {
+    width: 800px;
+    position: absolute;
+    left: 20%;
+    margin: 20px 0 0 -50px
+}
+
+/* 页面下角 */
+.footer {
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+/* 其他部门有趣的ppt */
+#othertrainingdocs {
+    /* left: 20%; */
+    margin: 10px 200px;
+    text-align: center;
+    width: 800px;
+}
+
+
+#othertrainingdocsb {
+    /* left: 20%; */
+    margin: 10px 200px;
+    text-align: center;
+    width: 800px;
+}
+
+
+#othertrainingdocsc {
+    /* left: 20%; */
+    margin: 10px 200px;
+    text-align: center;
+    width: 800px;
+}
+
+
+#other {
+    color: #95d195;
+    background-color: #dff0d8"
+
+}
+
+
+#otherb {
+    color: #95d195;
+    background-color: #dff0d8"
+
+}
+
+#otherc {
+    color: #95d195;
+    background-color: #dff0d8"
+
+}
+
+#other span {
+    font-size: 20px;
+}
+
+#otherb span {
+    font-size: 20px;
+}
+
+#otherc span {
+    font-size: 20px;
+}
+
+
+#other1 {
+    color: #ffe5dd;
+    background-color: #337ab7;
+}
+
+#other1b {
+    color: #ffe5dd;
+    background-color: #337ab7;
+}
+
+#other1c {
+    color: #ffe5dd;
+    background-color: #337ab7;
+}
+
+
+#other1 a {
+    color: #95d195;
+}
+
+
+#other1b a {
+    color: #95d195;
+}
+
+#other1c a {
+    color: #95d195;
+}
+
+#other2 {
+    color: #3190c0;
+    background-color: #d9edf7;
+}
+
+#other2b {
+    color: #3190c0;
+    background-color: #d9edf7;
+}
+
+#other2c {
+    color: #3190c0;
+    background-color: #d9edf7;
+}
+
+#other3 {
+    color: #97a4bb;
+    background-color: #fcf8e3;
+}
+
+
+#other3b {
+    color: #97a4bb;
+    background-color: #fcf8e3;
+}
+
+#other3c {
+    color: #97a4bb;
+    background-color: #fcf8e3;
+}
+
+#other4 {
+    color: #f2dede;
+    background-color: #f2dede;
+}
+
+#other4b {
+    color: #f2dede;
+    background-color: #f2dede;
+}
+
+#other4c {
+    color: #f2dede;
+    background-color: #f2dede;
+}
+
+
+#other5 {
+    color: white;
+    background-color: #6db3f3;
+}
+
+
+#other5b {
+    color: white;
+    background-color: #6db3f3;
+}
+
+#other5c {
+    color: white;
+    background-color: #6db3f3;
+}
+
+
+#other6 {
+    color: white;
+    background-color: #FF66FF;
+}
+
+#other6b {
+    color: white;
+    background-color: #FF66FF;
+}
+
+#other6c {
+    color: white;
+    background-color: #FF66FF;
+}
+
+#other7 {
+    color: white;
+    background-color: #3aafd2;
+}
+
+#other7b {
+    color: white;
+    background-color: #3aafd2;
+}
+
+#other7c {
+    color: white;
+    background-color: #3aafd2;
+}
+
+
+#other8 {
+    color: blue;
+    background-color: #41a386;
+}
+
+
+#other8b {
+    color: blue;
+    background-color: #41a386;
+}
+
+#other8c {
+    color: blue;
+    background-color: #41a386;
+}
+
+
+.titleTrain{
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#anniu{
+    margin: 50px 129px 10px;
+    /*
+        第三个数可以小一点会让它往左
+        第三个数可以小一点会让它往下
+    */
+    letter-spacing: 2px;
+}
+
+
+
+/* 把轮播图调在中间 */
+#otherApartment{
+    width: 80%;
+    margin: 50px 41px 10px;
+}
+
